@@ -1,4 +1,4 @@
-/*pink #7161EF*/
+/*pink #B79CED*/
 
 /*white #C9C1AC*/
 
@@ -28,7 +28,7 @@ body {
 }
 
 .primary-color {
-  color: #7161EF;
+  color: #B79CED;
 }
 
 #header {
@@ -67,9 +67,9 @@ body {
 }
 
 .main-btn {
-  color: #7161EF;
+  color: #B79CED;
   font-size: 2rem;
-  /* border: 2px solid #7161EF; */
+  /* border: 2px solid #B79CED; */
   transition: all 1s ease-in-out;
 
 }
@@ -170,13 +170,13 @@ body {
 }
 
 .nav-link:hover {
-  color: #7161EF;
+  color: #B79CED;
 }
 
 .nav-btn {
   background: transparent;
-  color: #7161EF;
-  border: 2px solid #7161EF;
+  color: #B79CED;
+  border: 2px solid #B79CED;
   font-size: 23px;
   transition: all 2s ease;
 }
@@ -188,7 +188,7 @@ body {
 }
 
 .toggler-btn {
-  border: 2px solid #7161EF;
+  border: 2px solid #B79CED;
   padding: 5px;
   transition: 1s all ease;
 }
@@ -199,7 +199,7 @@ body {
   width: 30px;
   height: 3px;
   margin: 5px;
-  background: #7161EF;
+  background: #B79CED;
   transition: all 0.5s ease;
 }
 
@@ -243,10 +243,10 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #7161EF;
+  color: #B79CED;
   font-size: 2rem;
-  border-top: 3px solid #7161EF;
-  border-bottom: 3px solid #7161EF;
+  border-top: 3px solid #B79CED;
+  border-bottom: 3px solid #B79CED;
   transition: 1s all ease-in-out;
   opacity: 0;
 
@@ -266,7 +266,7 @@ body {
 }
 
 .item-container:hover {
-  outline: 10px solid #7161EF;
+  outline: 10px solid #B79CED;
   outline-offset: 0.8rem;
 }
 
@@ -277,7 +277,7 @@ body {
 }
 
 .special {
-  border: 3px solid #7161EF;
+  border: 3px solid #B79CED;
   position: relative;
 }
 
@@ -285,7 +285,7 @@ body {
   position: absolute;
   top: 0;
   right: 10%;
-  background: #7161EF;
+  background: #B79CED;
   padding: 0 0.4rem;
 
 }
@@ -334,7 +334,7 @@ body {
 
 
 .about-image:hover {
-  outline: 10px solid #7161EF;
+  outline: 10px solid #B79CED;
   outline-offset: 0.8rem;
   transform: scale(1.3) rotate(20deg);
   z-index: 30;
@@ -379,12 +379,12 @@ body {
 }
 
 #contact .card-header {
-  color: #7161EF;
+  color: #B79CED;
 }
 
 #contact .input-group-text {
-  background: #7161EF;
-  border-color: #7161EF;
+  background: #B79CED;
+  border-color: #B79CED;
   color: #242424;
 }
 
@@ -397,15 +397,15 @@ body {
 }
 
 .contact-btn {
-  color: #7161EF;
-  border-color: #7161EF;
+  color: #B79CED;
+  border-color: #B79CED;
   background: transparent;
   transition: all 1s ease-in-out;
 }
 
 .contact-btn:hover {
   background: #C9C1AC;
-  color: #7161EF;
+  color: #B79CED;
   border-color: #C9C1AC;
 }
 
